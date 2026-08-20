@@ -29,10 +29,12 @@ Tietoja ohjelmasta pääsee katsomaan useilla komennoilla.
     -komentorivin työkalulla hexdump, voidaan tutkia binaaritiedoston sisältöä heksadesimaali-, desimaali-, oktaali- tai ASCII-muodossa
 
 ## Lähteet
-C++ "Hello, World!" Program, https://www.programiz.com/cpp-programming/examples/print-sentence 
+Create a Web Page Using Github, T. Karvinen Luettavissa: https://terokarvinen.com/2023/create-a-web-page-using-github/ Luettu 20.8.2026
 
-Hexdump, Hexdump command in Linux with examples https://www.geeksforgeeks.org/linux-unix/hexdump-command-in-linux-with-examples/ 
+C++ "Hello, World!" Program Luettavissa: https://www.programiz.com/cpp-programming/examples/print-sentence Luettu 20.8.2026
 
-Hexdump, Linux manual page https://man7.org/linux/man-pages/man1/hexdump.1.html 
+Hexdump, Hexdump command in Linux with examples Luettavissa: https://www.geeksforgeeks.org/linux-unix/hexdump-command-in-linux-with-examples/ Luettu 20.8.2026
+
+Hexdump, Linux manual page Luettavissa: https://man7.org/linux/man-pages/man1/hexdump.1.html Luettu 20.8.2026
 
 
